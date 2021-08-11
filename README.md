@@ -1,10 +1,82 @@
-# Hi there 👋, my name is Kaan
-###  Mobile developer (20y) from Turkey🙍🏽‍♂️
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### 🛠 Skills: <img src="https://camo.githubusercontent.com/df6cf95ebff290dbd402b4a40d92b74fb3d025ddae01675d64d3ed133b0b8dd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3035313232413f7374796c653d666c6174266c6f676f3d64617274266c6f676f436f6c6f723d323942364636" alt="Dart" data-canonical-src="https://img.shields.io/badge/Dart-05122A?style=flat&amp;logo=dart&amp;logoColor=29B6F6" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/63920c4db6b4d42de0c4963d96e57c0c848cdc72265036df5f4f18e07456bdbe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3035313232413f7374796c653d666c6174266c6f676f3d666c7574746572266c6f676f436f6c6f723d303235363942" alt="Flutter" data-canonical-src="https://img.shields.io/badge/Flutter-05122A?style=flat&amp;logo=flutter&amp;logoColor=02569B" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/23f12ac9b1ff9abe99464c22d8ecfff06b828f8524c7416d80c0743a4d0f9457/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3035313232413f7374796c653d666c6174266c6f676f3d48544d4c35266c6f676f436f6c6f723d453334463236" alt="HTML" data-canonical-src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5&amp;logoColor=E34F26" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/ba2f200f286396009dc13d21aecbaa1336387f3980f9a756698e3ba4ef225cfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3035313232413f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d323339313230" alt="CSS" data-canonical-src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=239120" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/2f1b81c586f8699cfbf7f96ee2aa022e8a04b263a7ca3731dd23dd5a80ca6d19/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3035313232413f7374796c653d666c6174266c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/6e8ce928be6e5866e27140eb0bb25479b52137d75ee0196e7b67c91038a9abc3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3035313232413f7374796c653d666c6174266c6f676f3d6a617661736372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/1ca4fca85fcdf590edd7002c02ded299502daa79309d0656859b69d55a1c1fa9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d56697375616c25323053747564696f253230436f64652d3035313232413f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d303037414343" alt="Visual Studio Code" data-canonical-src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/64df5a8930c1a9cd9eb883be437858a3b7092d1c9c67dafab2ebd62dc2de95a3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3035313232413f7374796c653d666c6174266c6f676f3d77696e646f7773" alt="Windows" data-canonical-src="https://img.shields.io/badge/Windows-05122A?style=flat&amp;logo=windows" style="max-width:100%;"> <img src="https://camo.githubusercontent.com/f8eec1443291ff5a58473daeea0ccf30299eaf5b2bdb4f3e8ef0714efae7a691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3035313232413f7374796c653d666c6174266c6f676f3d616e64726f6964" alt="Android" data-canonical-src="https://img.shields.io/badge/-Android-05122A?style=flat&amp;logo=android" style="max-width:100%;"> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaan</h1>
+<h3 align="center">I'm a Mobile Developer from Turkey.</h3>
 
-## ✅ Social
-<a href="https://twitter.com/akaanuzmann" rel="nofollow"><img src="https://camo.githubusercontent.com/5595226b14a75d75b85feb7a9acf86986a6e0811bafb45a8da855edc60000bce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d3144413146322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;"></a>
-<a href="https://linkedin.com/in/akaanuzman" rel="nofollow"><img src="https://camo.githubusercontent.com/bb14dfae5e125184ee97e55a8e8e227d72ac96bb53791a835ead9e0bfdf0b9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a> <a href="https://stackoverflow.com/users/14265947/kaan-uzman?tab=profile" rel="nofollow"><img src="https://camo.githubusercontent.com/4a5e479c6863ace77f11fc8897e6e20b1f9d6c1f68c92d3f5bea448ac465b41c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537461636b204f766572666c6f772d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d737461636b2d6f766572666c6f77266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Stack Overflow-D14836?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" style="max-width:100%;"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaanuzman)](https://github.com/anuraghazra/github-readme-stats)
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Kuvarssoft](https://kuvarssoft.com)**
+
+- 🌱 I’m currently learning **Swift/Kotlin.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Github Repository](https://github.com/akaanuzman?tab=repositories)**
+
+- 📫 How to reach me **akaanuzman@gmail.com**
+
+- ⚡ Fun fact **I play games very often.**
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://dart.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+    <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
+    <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/android.png"/> </a>
+    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
+    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+  
+    
+</p>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/akaanuzman/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kaan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akaanuzman&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/akaanuzman/github-readme-stats"><img alt="Kaan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akaanuzman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/akaanuzman/github-readme-stats"><img alt="Kaan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaanuzman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/akaanuzman/github-readme-activity-graph"><img alt="Kaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akaanuzman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/akaanuzman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/akaanuzmann"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/akaanuzman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=akaanuzman">
+</a>
+<a href="https://github.com/akaanuzman?tab=followers"><img src="https://img.shields.io/github/followers/akaanuzman?label=Followers&style=social" alt="GitHub Badge"></a>
