@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Kuvarssoft](https://kuvarssoft.com)**
+- 🔭 I’m currently working on **[KuvarsSoft](https://kuvarssoft.com)**
 
 - 🌱 I’m currently learning **Swift/Kotlin.**
 
