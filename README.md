@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[KuvarsSoft](https://kuvarssoft.com)**
 
-- 🌱 I’m currently learning **Swift/Kotlin.**
+- 🌱 I’m currently learning **Swift/Kotlin/PHP.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
