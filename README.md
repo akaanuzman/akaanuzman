@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 I’m currently working on **[KuvarsSoft](https://kuvarssoft.com)**
+- 💼 I’m currently working on **[KuvarsSoft](https://kuvarssoft.com) [CRM Application](https://github.com/akaanuzman/crm_app)**
 
-- 📚 I’m currently learning **Swift/Kotlin/PHP.**
+- 📚 I’m currently learning **Kotlin.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at **[My Github Repository](https://github.com/akaanuzman?tab=repositories)**
 
-- 📫 How to reach me **akaanuzman@gmail.com**
+- 📫 How to reach me **uzmanakan@gmail.com**
 
 - 🎮 Fun fact **I play games very often.**
 
