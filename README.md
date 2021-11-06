@@ -27,6 +27,7 @@
     <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/nolan/48/mac-os.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/color/48/000000/ios-logo.png"/> </a>
+    <a href="#"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
     <a href="#"> <img src="https://img.icons8.com/fluency/48/000000/android.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
