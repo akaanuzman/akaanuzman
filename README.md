@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaan</h1>
-<h3 align="center">I'm a Flutter Developer from Turkey. 📱</h3>
+<h3 align="center">I'm a Jr. iOS Developer | Flutter Developer from Turkey. 📱</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **uzmanakan@gmail.com**
 
-- 🎮 Fun fact **I play games very often.**
+- 🎮 Fun fact **I play video games and watch series very often.**
+
 
 ## 🚀 Languages and Tools:
 
@@ -33,9 +34,6 @@
     <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-    
-    
-
 </p>
 
 <br/>
@@ -77,3 +75,4 @@
     <img src="https://komarev.com/ghpvc/?username=akaanuzman">
 </a>
 <a href="https://github.com/akaanuzman?tab=followers"><img src="https://img.shields.io/github/followers/akaanuzman?label=Followers&style=social" alt="GitHub Badge"></a>
+
