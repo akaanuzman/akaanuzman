@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Jr. iOS Developer | Flutter Developer from Turkey. 📱</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋🏻‍♂️ About Me
 
 - 💼 I’m currently working on **[Halısahavar](https://www.halisahavar.com/)**
 
