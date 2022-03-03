@@ -58,6 +58,12 @@
 
 <a href="https://github.com/akaanuzman/github-readme-activity-graph"><img alt="Kaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akaanuzman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<h2 align="center"><img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" />&nbsp;Profile Trophy</h2>
+<p align="center"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=akaanuzman&title=MultiLanguage,Stars,Commit,Repositories,Commits,Followers,PullRequest&theme=black"/>
+</p>
+
+
 <br/>
 <br/>
 
