@@ -28,6 +28,7 @@
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
 <br/>
