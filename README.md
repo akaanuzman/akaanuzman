@@ -2,38 +2,25 @@
 <h3 align="center">I'm a Flutter Developer from Turkey. 📱</h3>
 
 
-## 🙋🏻‍♂️ About Me
-
-- 💼 I’m currently working on **[Halısahavar](https://www.halisahavar.com/)**
-
-- 📚 I’m currently learning **Swift / SwiftUI.**
-
-- 🧑🏻‍💻 All of my projects are available at **[My Github Repository](https://github.com/akaanuzman?tab=repositories)**
-
-- 📫 How to reach me **uzmanakan@gmail.com**
 
 <br/>
 
-## 🚀 Languages and Tools:
+###  🚀 Tech
 
-<p align="center"> 
-    <a href="https://dart.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
-    <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
-    <a href="https://www.cplusplus.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-</p>
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=E34F26)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCB2B)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+![AdobeXd](https://img.shields.io/badge/-AdobeXd-05122A?style=flat&logo=AdobeXd)&nbsp;
 
 <br/>
 <br/>
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
-<br/>
 
 <p align="center">
     <a href="https://github.com/akaanuzman/github-readme-streak-stats">
@@ -50,7 +37,7 @@
 
 <a href="https://github.com/akaanuzman/github-readme-activity-graph"><img alt="Kaan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akaanuzman&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" /> Profile Trophy
+### <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="39" height="32" /> Profile Trophy
 <br/>
 <br/>
 
@@ -62,26 +49,17 @@
 <br/>
 <br/>
 
-## 🔔 Connect with me:
+### 🧑🏻‍💻 Social
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/akaanuzman/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/akaanuzmann"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/akaanuzman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+    
+<a href="https://twitter.com/akaanuzmann" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+    <a href="https://www.linkedin.com/in/akaanuzman/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <br/>
 <br/>
 
-## 🎧 Now Playing
-
-[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/nl6r8ulqn8csoubrekusla8id)
-
-<br/>
-<br/>
-
-## 🔊 Views and Followers
+### 🔊 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=akaanuzman">
 </a>
