@@ -8,14 +8,11 @@
 
 - 📚 I’m currently learning **Swift / SwiftUI.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
 - 🧑🏻‍💻 All of my projects are available at **[My Github Repository](https://github.com/akaanuzman?tab=repositories)**
 
 - 📫 How to reach me **uzmanakan@gmail.com**
 
-- 🎮 Fun fact **I play video games and watch series very often.**
-
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -32,6 +29,7 @@
 </p>
 
 <br/>
+<br/>
 
 ## 📊 My Github Stats
 
@@ -46,9 +44,6 @@
   <br/>
     <a href="https://github.com/akaanuzman/github-readme-stats"><img alt="Kaan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akaanuzman&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/akaanuzman/github-readme-stats"><img alt="Kaan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaanuzman&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
@@ -75,6 +70,16 @@
 <a href = "https://www.instagram.com/akaanuzman/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
+
+<br/>
+<br/>
+
+## 🎧 Now Playing
+
+[<p align="center"> <img src="https://spotify-readme-stat.vercel.app/api/run-spotify-status.py" alt="Playing Now" width="600" /></p>](https://open.spotify.com/user/nl6r8ulqn8csoubrekusla8id)
+
+<br/>
+<br/>
 
 ## 🔊 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
