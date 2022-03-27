@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kaan</h1>
 <h3 align="center">I'm a Flutter Developer from Turkey. 📱</h3>
 
+<p align="center">
+<img src="https://github.com/kevmoo/dart_side/blob/master/Dash%20Dart%20PNG%20%20-%20black.png" alt="Cover" width=500 height=250>
+    
+</br>
+
 ###  🚀 Tech
 
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
