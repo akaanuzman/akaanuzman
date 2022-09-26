@@ -20,8 +20,6 @@
     <img alt="git" width="40px" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </p>
 
-</br>
-
 ### 🧑🏻‍💻 Social
 <p align="left">
     <a href="https://www.linkedin.com/in/akaanuzman/" target="blank">
@@ -36,8 +34,6 @@
 </p>
 
 </br>
-</br>
-
 ### 🔊 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=akaanuzman">
