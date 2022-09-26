@@ -30,7 +30,7 @@
     <a href="https://twitter.com/akaandev" target="blank">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" align="left" alt="akaandev | Twitter" width="40px"/>
     </a>
-    <a href="uzmanakan@gmail.com" target="blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uzmanakan@gmail.com" target="blank">
         <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" align="left" alt="uzmanakan | Gmail" width="40px"/>
     </a>
 </p>
