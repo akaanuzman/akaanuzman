@@ -9,16 +9,17 @@
 
 ###  🚀 Langueges and Tools:
 
-<p align="left>
-    <img alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
-    <img alt="dart" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
-    <img alt="flutter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-    <img alt="sqlite" width="40px" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
-    <img alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
-    <img alt="figma" width="40px" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
-    <img alt="zeplin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg"/>
-    <img alt="git" width="40px" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-</p>
+<img align="left" alt="swift" width="40px" height="40" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg"/>
+<img align="left" alt="dart" width="40px" height="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
+<img align="left" alt="flutter" width="40px" height="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+<img align="left" alt="sqlite" width="40px" height="40" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+<img align="left" alt="firebase" width="40px" height="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+<img align="left" alt="figma" width="40px" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/>
+<img align="left" alt="zeplin" width="40px" height="40" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg"/>
+<img align="left" alt="git" width="40px" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
+
+</br>
+</br>
 
 ### 🧑🏻‍💻 Social
 <p align="left">
@@ -34,6 +35,8 @@
 </p>
 
 </br>
+</br>
+
 ### 🔊 Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=akaanuzman">
