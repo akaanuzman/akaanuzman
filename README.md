@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋🏻 I'm Kaan</h1>
-<h3 align="center">I'm a Mobile Application Developer from Turkey. 📱</h3>
-
-<p align="center">
-<img src="https://github.com/kevmoo/dart_side/blob/master/Dash%20Dart%20PNG%20%20-%20black.png" alt="Cover" width=500 height=250>
+<h3 align="center">I'm a Jr. iOS Developer from Turkey.  </h3>
     
-</br>
 </br>
 
 ###  🚀 Langueges and Tools:
