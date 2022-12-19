@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻 I'm Kaan!</h1>
-<h3 align="center">I'm a Jr. Full Stack Developer from Turkey.</h3>
+<h3 align="center">I'm a Mobile Application Developer from Turkey.</h3>
     
 ### 🧑🏻‍ About Me
 - 🗣 I write code everday and I improve myself day by day.
